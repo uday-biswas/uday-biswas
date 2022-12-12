@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @uday-biswas
 - 👀 I’m interested in cricket, football,coding.
-- 🌱 I’m currently learning c & c++
+- 🌱 I’m currently learning web development
 - 🤟 currently pursuing computer science and engineering at nit Rourkela.
 
 <!---
